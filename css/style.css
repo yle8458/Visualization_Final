@@ -171,6 +171,12 @@ svg {
 	margin-bottom: 50px;
 }
 
+#sup_div {
+	margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
 #detail-chart {
 	margin-top: 100px;
 }
